@@ -1,0 +1,4 @@
+**/figures/**
+**/.ipynb_checkpoints/**
+*.csv
+*.log
